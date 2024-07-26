@@ -1,0 +1,82 @@
+.contactUs{
+    background-color: #1E1E1E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 5vh;
+
+}
+
+h2 {
+  font-size: 3rem;
+  margin-left: 0;
+  color: #C5130D;
+  text-align: center;
+}
+
+#contactDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+
+#contacts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4vh;
+}
+
+#contacts h5, label{
+    color: white;
+    font-size: 2vh;
+    margin-bottom: 0;
+}
+
+label{
+    font-size: 1.8vh;
+}
+
+#contactForm form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    gap:.8vh;
+}
+
+.contact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#contacts img{
+    width: 2vw;
+    height: auto;
+    margin-right: 1vw;
+}
+
+.shortText{
+    width: 20vw;
+}
+
+.message{
+    height: 10vh;
+}
+
+.submit{
+    background-color: #C5130D;
+    color: white;
+    font-size: 1.5vh;
+    width: 5vw;
+    height: 3vh;
+    border: none;
+    cursor: pointer;
+    margin-left: 75%;
+    margin-top: 1vh;
+}

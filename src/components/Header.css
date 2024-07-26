@@ -1,0 +1,35 @@
+.header {
+    position: sticky;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #C5130D;
+    padding: 0%;
+    height: 6vh;
+    top: 0;
+    z-index: 10000000;
+  }
+  
+  .logo img {
+    margin-top: 0.2vh;
+    margin-left: 1vw;
+    width: auto;
+    height: 6vh;
+  }
+  
+  .nav ul {
+    list-style: none;
+    display: flex;
+    gap: 2.5vw;
+    margin: 0;
+    padding-right: 74px;
+  }
+  
+  .nav li {
+    font-size: 1vw;
+    cursor: pointer;
+    color: white;
+  }
+  
+  /* Add any additional styling here */
+  
