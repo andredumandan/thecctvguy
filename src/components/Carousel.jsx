@@ -9,7 +9,7 @@ const Carousel = () => {
                 <span id='cctvguy'> BE A CCTV GUY</span>
             </h1>
             <div id='overlay'/>
-            <img id="carouselimg" src='../../public/carousel.jpg'/>
+            <img id="carouselimg" src='carousel.jpg'/>
         </div>
     );
 };

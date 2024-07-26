@@ -30,19 +30,19 @@ const Contact = () => {
             <div id="contactDiv">
                 <div id='contacts'>
                     <div id='fb' class="contact">
-                        <img id="fb-logo" src='../../public/fb.png' />
+                        <img id="fb-logo" src='fb.png' />
                         <h5>fb.com/thecctvguy</h5>
                     </div>
                     <div id='phone' class="contact">
-                        <img id="phone-logo" src='../../public/ph.png' />
+                        <img id="phone-logo" src='ph.png' />
                         <h5>0927 800 1811</h5>
                     </div>
                     <div id='email' class="contact">
-                        <img id="email-logo" src='../../public/email.png' />
+                        <img id="email-logo" src='email.png' />
                         <h5>thecctv_guy@yahoo.com</h5>
                     </div>
                     <div id='ig' class="contact">
-                        <img id="ig-logo" src='../../public/ig.png' />
+                        <img id="ig-logo" src='ig.png' />
                         <h5>@thecctvguy</h5>
                     </div>
                 </div>
