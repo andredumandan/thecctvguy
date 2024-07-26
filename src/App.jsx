@@ -37,7 +37,7 @@ function App() {
         </div>
 
         <div id='aboutUs'>
-          <img src='/logo.gif' alt='aboutus' />
+          <img src='logo.gif' alt='aboutus' />
           <div id='aboutUsText'>
             <h2>About Us</h2>
             <h5>Our company, established in 2012, is a leading provider of security solutions based in the Philippines. With a strong foundation in CCTV installation, we have expanded our services nationwide to cater to the evolving needs of our clients. In addition to our expertise in CCTV systems, we have ventured into the installation of fire detection and alarm systems (FDAS) to enhance the safety of various establishments. Recognizing the importance of efficient data management, we also specialize in organizing and structuring CCTV data for seamless access and analysis. Our commitment to delivering top-quality solutions has earned us a trusted reputation in the industry, allowing us to serve a diverse range of clients across the country.</h5>
